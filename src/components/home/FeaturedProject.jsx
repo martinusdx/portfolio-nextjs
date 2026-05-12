@@ -26,7 +26,7 @@ export default function FeaturedProject() {
             pointer-events-none
         "
       />  
-      
+
       <div className="max-w-6xl mx-auto px-6">
 
         {/* SECTION TITLE */}
@@ -89,7 +89,7 @@ export default function FeaturedProject() {
             "
           >
             <Image
-              src="/images/projects/attendance/login.png"
+              src="/images/projects/attendance/login.PNG"
               alt="Login Screen"
               width={500}
               height={1000}
