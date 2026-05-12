@@ -109,7 +109,7 @@ export default function FeaturedProject() {
             "
           >
             <Image
-              src="/images/projects/attendance/dashboard-1.png"
+              src="/images/projects/attendance/dashboard-1.PNG"
               alt="Dashboard Screen"
               width={500}
               height={1000}
@@ -129,7 +129,7 @@ export default function FeaturedProject() {
             "
           >
             <Image
-              src="/images/projects/attendance/admin-1.png"
+              src="/images/projects/attendance/admin-1.PNG"
               alt="Admin Screen"
               width={500}
               height={1000}
